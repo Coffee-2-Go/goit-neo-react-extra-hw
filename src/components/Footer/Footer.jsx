@@ -4,14 +4,14 @@ export const Footer = () => {
   return (
     <footer className={styles.footer}>
       <p className={styles.footerDesc}>
-        Made with ✨ by{' '}
+        See the code for all my assignments here:{' '}
         <a
           className={styles.footerLink}
-          href="https://github.com/Matajur"
+          href="https://github.com/Coffee-2-Go"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Matajur
+          Coffee-2-Go
         </a>
       </p>
     </footer>
