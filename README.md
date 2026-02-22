@@ -4,7 +4,7 @@
 
 ### Deployment
 
-The web application is available at the link: https://react-final-project.vercel.app/
+The web application is available at the link: https://react-final-project-lyart.vercel.app/
 
 To run it locally
 
